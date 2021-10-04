@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 ![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
 
 
-
-### Hi there 👋🏿
-
 <!--
 **007tom/007tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
