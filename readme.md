@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
 
-![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyichenmo&count_private=true&show_icons=true&theme=react)
+
 
 ### Hi there 👋🏿
 
@@ -116,3 +116,4 @@ YAML         34 mins         █░░░░░░░░░░░░░░░░
 
 ![Waka Readme](https://github.com/007tom/007tom/workflows/Waka%20Readme/badge.svg)
 
+![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyichenmo&count_private=true&show_icons=true&theme=react)
