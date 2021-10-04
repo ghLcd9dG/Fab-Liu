@@ -2,21 +2,19 @@
 
 ### Hi there 👋
 
-
 ![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
+
+
 
 <!-- - 🔭 I’m currently working on ... -->
 
 - 🌱 I’m currently learning *Fundamental Knowledge* ...
-
 - 👯 I’m looking for collaborators of [Eorg](https://github.com/zhyd1997/Eorg) ...
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
-
-- 📫 How to reach me: ...
-  [![Gmail](https://img.shields.io/badge/-Gmail-%23ffffff?style=for-the-badge&logo=gmail)](mailto:swe2009510@xmu.edu.my)
   <!-- - 😄 Pronouns: ... -->
-  
+- 📫 How to reach me: 
+  [![Gmail](https://img.shields.io/badge/-Gmail-%23ffffff?style=for-the-badge&logo=gmail)](mailto:swe2009510@xmu.edu.my)
 - ⚡ Fun fact: [Path to Pixar](https://bunnyhobby.github.io/)
   <!--
   -->
@@ -59,9 +57,9 @@
 
 ## Coding Problems Exercise
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-%23ffffff?style=flat&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/zhyd1997/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-%23ffffff?style=flat&logo=hackerrank&logoColor=%2300EA64)](https://www.hackerrank.com/zhyd007)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-%23ffffff?style=flat&logo=codeforces&logoColor=%231F8ACB)](https://codeforces.com/profile/zhyd1997)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-%23ffffff?style=flat&logo=leetcode&logoColor=%23FFA116)]()
+[![HackerRank](https://img.shields.io/badge/-HackerRank-%23ffffff?style=flat&logo=hackerrank&logoColor=%2300EA64)]()
+[![Codeforces](https://img.shields.io/badge/-Codeforces-%23ffffff?style=flat&logo=codeforces&logoColor=%231F8ACB)]()
 
 ## Cloud Service
 
@@ -76,7 +74,7 @@
 ![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyichenmo&count_private=true&show_icons=true&theme=react)
 
 ```text
-Week: 27 September, 2021 - 03 October, 2021
+Week: 27 September, 2021 - 05 October, 2021
 
 TypeScript   5 hrs 21 mins   █████████▒░░░░░░░░░░░░░░░   37.14 % 
 JSON         5 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   36.13 % 
