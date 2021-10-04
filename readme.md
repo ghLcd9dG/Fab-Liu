@@ -41,12 +41,9 @@ Here are some ideas to get you started:
   <!-- - 💬 Ask me about ... -->
 
 - 📫 How to reach me: ...
-
-  [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=%23ffffff)](https://twitter.com/Tom61319231)
-  [![Gmail](https://img.shields.io/badge/-Gmail-%23ffffff?style=for-the-badge&logo=gmail)](mailto:zhyd007@gmail.com)
-  [![Dev.To](https://img.shields.io/badge/-Dev%2ETo-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=%23ffffff)](https://dev.to/sakuta)
+  [![Gmail](https://img.shields.io/badge/-Gmail-%23ffffff?style=for-the-badge&logo=gmail)](mailto:swe2009510@xmu.edu.my)
   <!-- - 😄 Pronouns: ... -->
-
+  
 - ⚡ Fun fact: [Path to Pixar](https://bunnyhobby.github.io/)
   <!--
   -->
