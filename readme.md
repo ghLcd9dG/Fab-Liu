@@ -1,4 +1,4 @@
-![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyichenmo&count_private=true&show_icons=true&theme=react)
+
 
 ### Hi there 👋
 
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Waka Readme](https://github.com/007tom/007tom/workflows/Waka%20Readme/badge.svg)
+
 ![Hiring Status](https://img.shields.io/badge/Hireable-true-green)
+
+![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyichenmo&count_private=true&show_icons=true&theme=react)
 
 ### Hi there 👋🏿
 
@@ -87,8 +89,6 @@ Here are some ideas to get you started:
 
 ## Coding Problems Exercise
 
-[![Codewars](https://www.codewars.com/users/007tom/badges/small)](https://www.codewars.com/users/007tom)
-
 [![LeetCode](https://img.shields.io/badge/-LeetCode-%23ffffff?style=flat&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/zhyd1997/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-%23ffffff?style=flat&logo=hackerrank&logoColor=%2300EA64)](https://www.hackerrank.com/zhyd007)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-%23ffffff?style=flat&logo=codeforces&logoColor=%231F8ACB)](https://codeforces.com/profile/zhyd1997)
@@ -114,5 +114,5 @@ YAML         34 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
+![Waka Readme](https://github.com/007tom/007tom/workflows/Waka%20Readme/badge.svg)
 
