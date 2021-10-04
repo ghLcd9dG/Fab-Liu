@@ -102,6 +102,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
+
+![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyichenmo&count_private=true&show_icons=true&theme=react)
+
 ```text
 Week: 27 September, 2021 - 03 October, 2021
 
@@ -116,4 +119,3 @@ YAML         34 mins         █░░░░░░░░░░░░░░░░
 
 ![Waka Readme](https://github.com/007tom/007tom/workflows/Waka%20Readme/badge.svg)
 
-![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyichenmo&count_private=true&show_icons=true&theme=react)
