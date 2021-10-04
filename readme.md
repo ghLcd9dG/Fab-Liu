@@ -1,3 +1,5 @@
+![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyichenmo&count_private=true&show_icons=true&theme=react)
+
 ### Hi there 👋
 
 <!--
@@ -112,6 +114,5 @@ YAML         34 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![007tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=007tom&count_private=true&show_icons=true&theme=react)
 
-](https://github.com/anuraghazra/github-readme-stats)
+
