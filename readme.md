@@ -14,7 +14,7 @@
   <!-- - 💬 Ask me about ... -->
   <!-- - 😄 Pronouns: ... -->
 - 📫 How to reach me: 
-  [![Gmail](https://img.shields.io/badge/-Gmail-%23ffffff?style=for-the-badge&logo=gmail)](mailto:swe2009510@xmu.edu.my)
+  [![Mail](mailto:swe2009510@xmu.edu.my)
 - ⚡ Fun fact: [Path to Pixar](https://bunnyhobby.github.io/)
   <!--
   -->
