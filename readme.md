@@ -73,7 +73,7 @@
 
 ![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyichenmo&count_private=true&show_icons=true&theme=react)
 
-```text
+```waka
 Week: 27 September, 2021 - 05 October, 2021
 
 TypeScript   5 hrs 21 mins   █████████▒░░░░░░░░░░░░░░░   37.14 % 
