@@ -13,8 +13,7 @@
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
   <!-- - 😄 Pronouns: ... -->
-- 📫 How to reach me: 
-  [![Mail](mailto:swe2009510@xmu.edu.my)
+- 📫 How to reach me: [Mail](mailto:swe2009510@xmu.edu.my)
 - ⚡ Fun fact: [Path to Pixar](https://bunnyhobby.github.io/)
   <!--
   -->
