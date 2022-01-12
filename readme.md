@@ -14,7 +14,7 @@
   <!-- - 💬 Ask me about ... -->
   <!-- - 😄 Pronouns: ... -->
 - 📫 How to reach me: [Mail](mailto:swe2009510@xmu.edu.my)
-- ⚡ Fun fact: [Path to Pixar](https://bunnyhobby.github.io/)
+- ⚡ Fun fact: [CNBlogs](https://www.cnblogs.com/XUYICHENMO/)
   <!--
   -->
 
