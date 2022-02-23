@@ -22,20 +22,6 @@
 
 ![Bilibili](https://img.shields.io/badge/-Bilibili-%23ffffff?style=flat&logo=bilibili)
 
-## Operating System & Tools
-
-![macOS](https://img.shields.io/badge/Macbook%20Pro-Big%20Sur%20%7C%2013--inch%20%7C%208%20GB%20%7C%20Late%202013-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
-
-![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=%23ffffff)
-![ACM Membership](https://img.shields.io/badge/-ACM%20Membership-%23ffffff?style=flat&logo=acm&logoColor=%230085CA)
-
-![Postman](https://img.shields.io/badge/-Postman-%23ffffff?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=%23ffffff)
-
 ## Technology Stack
 
 ![React Hooks](https://img.shields.io/badge/-React%20Hooks-%23282c34?style=flat&logo=react)
@@ -53,6 +39,20 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-%23333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-%23333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23ffffff?style=flat&logo=mongodb)
+
+## Operating System & Tools
+
+![macOS](https://img.shields.io/badge/Macbook%20Pro-Big%20Sur%20%7C%2013--inch%20%7C%208%20GB%20%7C%20Late%202013-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
+
+![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=%23ffffff)
+![ACM Membership](https://img.shields.io/badge/-ACM%20Membership-%23ffffff?style=flat&logo=acm&logoColor=%230085CA)
+
+![Postman](https://img.shields.io/badge/-Postman-%23ffffff?style=flat&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=%23ffffff)
 
 ## Coding Problems Exercise
 
