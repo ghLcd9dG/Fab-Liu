@@ -42,8 +42,6 @@
 
 ## Operating System & Tools
 
-![macOS](https://img.shields.io/badge/Macbook%20Pro-Big%20Sur%20%7C%2013--inch%20%7C%208%20GB%20%7C%20Late%202013-%23000000?style=flat&logo=apple&logoColor=%23ffffff)
-
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
