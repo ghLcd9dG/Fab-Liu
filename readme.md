@@ -24,6 +24,7 @@
 
 ## Technology Stack
 
+![Django](https://img.shields.io/pypi/pyversions/django)
 ![React Hooks](https://img.shields.io/badge/-React%20Hooks-%23282c34?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&logoColor=%23ffffff)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-%23DB7093?style=flat&logo=styled-components&logoColor=%23ffffff)
