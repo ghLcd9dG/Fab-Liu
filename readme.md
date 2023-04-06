@@ -69,7 +69,7 @@
 <!--START_SECTION:waka-->
 
 
-![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuyichenmo&count_private=true&show_icons=true&theme=react)
+![xuyichenmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fab-Liu&count_private=true&show_icons=true&theme=react)
 
 ```waka
 Week: 27 September, 2021 - 05 October, 2021
