@@ -47,9 +47,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
 
-![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=notion&logoColor=%23ffffff)
-![ACM Membership](https://img.shields.io/badge/-ACM%20Membership-%23ffffff?style=flat&logo=acm&logoColor=%230085CA)
-
 ![Postman](https://img.shields.io/badge/-Postman-%23ffffff?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=%23ffffff)
 
@@ -61,7 +58,6 @@
 
 ## Cloud Service
 
-![Heroku](https://img.shields.io/badge/-Heroku-%23ffffff?style=flat&logo=heroku&logoColor=%23430098)
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-%230080FF?style=flat&logo=DigitalOcean&logoColor=%23ffffff)
 
 ## Github Stats
